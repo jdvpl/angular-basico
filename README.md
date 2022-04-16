@@ -17,3 +17,10 @@ ng generate class footer.componet
   ng generate component directiva
   ng g c directiva
 ```
+
+### creando servicio
+
+```
+  ng g service cliente
+
+```
